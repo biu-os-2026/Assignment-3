@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Deadline** | May 5 23:59, 2026 |
+| **Deadline** | 17.6.2026, 23:59. |
 | **Submission** | GitHub Classroom — push your completed template files (`ex3.c`, `Focus-Mode.c`, `CPU-Scheduler.c`) to your repository |
 | **Type** | Solo assignment |
 | **Language** | C only |
@@ -40,7 +40,7 @@ Don't worry — we are nice. If you have a good reason, you will get the extensi
 
 ### Questions and help
 
-We strongly encourage you to ask questions on the course forum: https://lemida.biu.ac.il/mod/forum/view.php?id=3058210
+We strongly encourage you to ask questions on the course forum: https://lemida.biu.ac.il/mod/forum/view.php?id=3093532
 
 Help each other! If you see a question you can answer, go ahead. We will make sure every question gets answered.
 
@@ -534,8 +534,5 @@ Any submission that doesn't will receive **zero points, no exceptions**.
 * It's recommended to use `write` rather than [`printf`](https://unix.stackexchange.com/questions/609210/why-printf-is-not-asyc-signal-safe-function?utm_source=chatgpt.com) for output operations as it's [async-signal-safe](https://docs.oracle.com/cd/E19455-01/806-5257/gen-26/index.html?utm_source=chatgpt.com)
 * Measure **Waiting Time** and **Turnaround Time** carefully — refer to the definitions above
 
-## 📫 Questions?
-
-Reach out to us in the LEMIDA [forum](https://lemida.biu.ac.il/mod/forum/view.php?id=3093532)!
 
 💪🏻 Happy coding, and may your waiting times be minimal!
